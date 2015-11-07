@@ -1,2 +1,2 @@
-# Sample Go App 
+# GO Test App 
 Reads a json string from web service
